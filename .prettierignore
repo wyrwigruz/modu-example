@@ -1,0 +1,5 @@
+src/jest/cache
+src/jest/coverage
+/.idea
+/.expo
+/expo-env.d.ts
