@@ -1,1 +1,1 @@
-# mudu-example
+# modu-example
